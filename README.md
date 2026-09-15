@@ -19,7 +19,7 @@ A passionate Creative Developer who wants to develop products that truly enchant
 <details>
   <summary>📚 Studying Creative Media and Game Technologies @ Rotterdam University of Applied Sciences.</summary>
   <sup><i>Currently building:</i></sup><br>
-  🎓 Web development internship at ROX Digital Agency<br>
+  🎓 Certification platform as an internship assignment at ROX Digital Agency<br>
 </details>
 <details>
   <summary>🎡 Creating and maintaining a virtual Minecraft Themepark server @ <a href="https://venturevalleymc.nl">VentureValley</a>.</summary>
